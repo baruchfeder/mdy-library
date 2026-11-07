@@ -125,6 +125,17 @@ for (const [id, v] of Object.entries(V)) {
   if (/\bpart\s*\d/i.test(v.title)) rec.flags.push("part");
 }
 
+// Manual corrections approved by the user (data/overrides.json) win over the automatic result
+const OV_FILE = path.join(ROOT, "data", "overrides.json");
+const OV = fs.existsSync(OV_FILE) ? JSON.parse(fs.readFileSync(OV_FILE, "utf8")) : {};
+for (const [id, o] of Object.entries(OV)) {
+  const r = out[id];
+  if (!r || id.startsWith("_") || r.kind === "hidden") continue;
+  Object.assign(r, { kind: "daf", track: o.track, mas: o.mas, dafs: [o.daf], cycle: r.cycle || 14, dateDiff: 0, speaker: r.speaker || "Eli Stefansky" });
+  delete r.reason;
+  r.flags = [...(r.flags || []), "manual override"];
+}
+
 // Classification is uncertain if the date is far from the calendar → move to unclassified
 for (const r of Object.values(out)) if (r.kind === "daf" && Math.abs(r.dateDiff) > 30) { r.kind = "unclassified"; r.reason = `title ${r.mas} ${r.dafs.join("-")} but published ${r.dateDiff} days away from that daf in any cycle`; }
 

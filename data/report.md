@@ -1,12 +1,12 @@
 # Classification report
 
-Generated 2026-11-07 18:52 UTC · 5824 videos
+Generated 2026-11-07 18:54 UTC · 5824 videos
 
 | | videos |
 |---|---|
-| Daf shiurim | 5119 |
+| Daf shiurim | 5120 |
 | Extras | 686 |
-| Unclassified | 10 |
+| Unclassified | 9 |
 | Hidden (unlisted/private on YouTube — not shown) | 9 |
 
 ## Per track
@@ -14,7 +14,7 @@ Generated 2026-11-07 18:52 UTC · 5824 videos
 | track | videos | cycle 13 (2012-2020) | cycle 14 (2020-) | dafim covered, cycle 14 | dafim covered, any cycle | first | last |
 |---|---|---|---|---|---|---|---|
 | he-full | 1049 | 0 | 1049 | 1049 / 2711 (38.7%) | 1049 / 2711 (38.7%) | 2023-12-17 | 2026-11-07 |
-| he-only | 378 | 0 | 378 | 378 / 2711 (13.9%) | 378 / 2711 (13.9%) | 2025-10-23 | 2026-11-05 |
+| he-only | 379 | 0 | 379 | 379 / 2711 (14.0%) | 379 / 2711 (14.0%) | 2025-10-23 | 2026-11-05 |
 | en-full | 2986 | 484 | 2502 | 2499 / 2711 (92.2%) | 2684 / 2711 (99.0%) | 2018-08-17 | 2026-11-06 |
 | en-only | 417 | 0 | 417 | 417 / 2711 (15.4%) | 417 / 2711 (15.4%) | 2025-09-17 | 2026-11-06 |
 | en-8 | 153 | 153 | 0 | 0 / 2711 (0.0%) | 152 / 2711 (5.6%) | 2019-01-23 | 2019-07-03 |
@@ -54,7 +54,7 @@ Generated 2026-11-07 18:52 UTC · 5824 videos
 | Horayos הוריות | 13 | **13** | · | **13** | · | · | · |
 | Zevachim זבחים | 119 | **119** | 82 | **119** | **119** | · | · |
 | Menachos מנחות | 109 | **109** | **109** | **109** | **109** | · | · |
-| Chullin חולין | 141 | **141** | 140 | **141** | **141** | · | · |
+| Chullin חולין | 141 | **141** | **141** | **141** | **141** | · | · |
 | Bechoros בכורות | 60 | 49 | 47 | 49 | 48 | · | · |
 | Arachin ערכין | 33 | · | · | · | · | · | · |
 | Temurah תמורה | 33 | · | · | · | · | · | · |
@@ -68,7 +68,7 @@ Generated 2026-11-07 18:52 UTC · 5824 videos
 ## Missing dafim inside the stretch each track ran in cycle 14
 
 - **he-full** (1056 dafim in range): 7 missing — Bava Metzia 48, Bava Metzia 55, Bava Metzia 56, Bava Metzia 61, Bava Metzia 62, Bava Metzia 67, Bava Metzia 69
-- **he-only** (379 dafim in range): 1 missing — Chullin 136
+- **he-only** (379 dafim in range): none missing
 - **en-full** (2499 dafim in range): none missing
 - **en-only** (417 dafim in range): none missing
 
@@ -135,6 +135,7 @@ Generated 2026-11-07 18:52 UTC · 5824 videos
 - amud B: 2
 - amud A: 2
 - date off by N days: 2
+- manual override: 1
 - in Zevachim playlist; title + date say Menachos: 1
 - speaker:av Chait: 1
 - speaker:Yedidya Kramer: 1
@@ -146,6 +147,7 @@ Generated 2026-11-07 18:52 UTC · 5824 videos
 
 - en-full · Bechoros 50 · c14 · 2026-11-06 · [Daf Yomi Bechoros Daf 50 by R’ Eli Stefansky (unedited)](https://youtu.be/97cP2c1IUVo) · _unedited_
 - he-full · Bechoros 50 · c14 · 2026-11-07 · [מרכז דף יומי -  בכורות דף נ. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/-lGgy1nPYLk) · _unedited_
+- he-only · Chullin 136 · c14 · 2026-09-14 · [מרכז דף יומי - חולין דף קלו. - ר' אלי סטפנסקי שליט"א](https://youtu.be/cO6iIG3Cim0) · _manual override_
 - en-only · Menachos 49 · c14 · 2026-03-01 · [CHAZARAH - Menachos Daf 49 | "Nothing but the Daf" with R' Eli Stefansky](https://youtu.be/LQfGB8nVqzw) · _in Zevachim playlist; title + date say Menachos_
 - en-full · Shabbos 63 · c14 · 2020-05-08 · [Daf Yomi Shabbos daf 63 part 2 by R’ Eli Stefansky](https://youtu.be/TduY3X03wRw) · _part_
 - en-full · Niddah 29 · c13 · 2019-11-21 · [Daf Yomi Niddah Daf 29 part 2 Sugya of טועה](https://youtu.be/NjVtRudwE-U) · _part_
@@ -234,17 +236,15 @@ Generated 2026-11-07 18:52 UTC · 5824 videos
 - talks: 22
 - 8min: 2
 
-## Unclassified: 10
+## Unclassified: 9
 
 - unknown masechta name "…": 4
 - in a daf playlist but title not parsed: 3
-- title says he-full, playlist says he-only: 1
 - daf outside masechta range: 1
 - date far from calendar: 1
 
 | date | min | title | reason | playlists |
 |---|---|---|---|---|
-| 2026-09-14 | 34 | [מרכז דף יומי - חולין דף קלו. - ר' אלי סטפנסקי שליט"א](https://youtu.be/cO6iIG3Cim0) | title says he-full, playlist says he-only | חזרה מסכת חולין / "רק הדף" עם ר' אלי סטפנסקי |
 | 2025-01-03 | 3 | [בבא בתרא - 175 דף ב175 שניות](https://youtu.be/dEiezBcam2c) | in a daf playlist but title not parsed | MDY Siyumim & More; מרכז דף יומי- מסכת בבא בתרא - ע"י ר' אלי סטפנסקי שליט"א |
 | 2024-12-22 | 3 | [Bava Basra - 175 Daf in 175 Sec](https://youtu.be/v-1msAhAEh8) | in a daf playlist but title not parsed | MDY Siyumim & More; Daf Yomi Bava Basra by R’ Eli Stefansky |
 | 2024-09-04 | 1 | [Zoom Guest Bava Basra Daf 71](https://youtu.be/1UrOXH1sfcE) | unknown masechta name "Zoom Guest Bava Basra" |  |

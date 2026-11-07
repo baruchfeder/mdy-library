@@ -4385,9 +4385,18 @@
   "playlists": [
    "חזרה מסכת חולין | \"רק הדף\" עם ר' אלי סטפנסקי"
   ],
-  "flags": [],
-  "kind": "unclassified",
-  "reason": "title says he-full, playlist says he-only"
+  "flags": [
+   "manual override"
+  ],
+  "kind": "daf",
+  "track": "he-only",
+  "mas": "Chullin",
+  "dafs": [
+   136
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
  },
  "UobYLtD7xXI": {
   "id": "UobYLtD7xXI",
