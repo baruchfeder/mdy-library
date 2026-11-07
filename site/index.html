@@ -237,7 +237,7 @@ const T={
   hint:"לחיצה מנגנת את השיעור",offHint:"אין שיעור בסדרה הזו לדף הזה",none:"לא נמצאה מסכת בשם הזה",lib:"שיעורים נוספים",
   proto:"",updated:"הרשימה מתעדכנת אוטומטית מערוץ היוטיוב · עדכון אחרון",min:"דק׳",parts:"חלקים נוספים",part:"חלק",prevCycle:"מהמחזור הקודם",loadErr:"לא הצלחנו לטעון את רשימת השיעורים. נסו לרענן את העמוד.",
   speakers:{"Noam Fix":"הרב נעם פיקס","Menachem Mateh":"הרב מנחם מטה","Menachem Mathe":"הרב מנחם מטה","Yedidya Kramer":"הרב ידידיה קרמר","av Chait":"הרב חייט"},
-  foot:"אתר לא רשמי",dev:"פיתוח וקונספט",wa:"וואטסאפ",langBtn:"English",
+  foot:"אתר לא רשמי",dev:"פיתוח וקונספט: ברוך פדר",wa:"וואטסאפ",langBtn:"English",
   tracks:{"he-full":"עברית · שיעור מלא","he-only":"עברית · רק הדף","en-full":"English · Full Shiur","en-only":"English · Daf Only (~35 min)","en-8":"8 Minute Daf"},
   topics:[["8min","8 Minute Daf","תמצית","הדף בשמונה דקות","סיכומי הדף הקצרים מ־2019, באנגלית ובעברית"],["talks","Talks","שיחות","שיחות וראיונות","דברי תורה על הפרשה וראיונות עם הרב אלי"],["chizuk","Chizuk","השראה","שיחות חיזוק","קטעי חיזוק קצרים מהרב אלי"],["siyumim","Siyum","שמחה","סיומי מסכת","מעמדי הסיום של הלומדים"]],
   videos:"סרטונים",more:"הצג עוד",close:"סגירה",playing:"מתנגן עכשיו"},
@@ -246,7 +246,7 @@ const T={
   hint:"Click to play the shiur",offHint:"No shiur in this series for this daf",none:"No masechta found",lib:"More Shiurim",
   proto:"",updated:"The list updates automatically from the YouTube channel · last update",min:"min",parts:"More parts",part:"Part",prevCycle:"previous cycle",loadErr:"Could not load the shiurim list. Please refresh the page.",
   speakers:{"Noam Fix":"R' Noam Fix","Menachem Mateh":"R' Menachem Mateh","Menachem Mathe":"R' Menachem Mateh","Yedidya Kramer":"R' Yedidya Kramer","av Chait":"Rav Chait"},
-  foot:"Unofficial site",dev:"Development & concept",wa:"WhatsApp",langBtn:"עברית",
+  foot:"Unofficial site",dev:"Development & concept: Baruch Feder",wa:"WhatsApp",langBtn:"עברית",
   tracks:{"he-full":"Hebrew · Full Shiur","he-only":"Hebrew · Daf Only","en-full":"English · Full Shiur","en-only":"English · Daf Only (~35 min)","en-8":"8 Minute Daf"},
   topics:[["8min","8 Minute Daf","SUMMARY","The Daf in 8 Minutes","Short daf summaries from 2019, in English and Hebrew"],["talks","Talks","TALKS","Talks & Interviews","Parsha talks and interviews with Reb Eli"],["chizuk","Chizuk","INSPIRATION","Chizuk Clips","Short words of inspiration from Reb Eli"],["siyumim","Siyum","SIMCHA","Siyum Masechta","Celebrations of completing a masechta"]],
   videos:"videos",more:"Show more",close:"Close",playing:"Now playing"}
@@ -296,7 +296,7 @@ function applyUI(){
   document.querySelectorAll("[data-t]").forEach(el=>el.textContent=L[el.dataset.t]);
   $("q").placeholder=L.ph;$("langBtn").textContent=L.langBtn;$("prev").textContent=L.prev;$("next").textContent=L.next;
   $("todayLbl").textContent=`${L.today} · ${mName(today.m)} ${dName(today.d)}`;
-  $("foot").innerHTML=`${L.foot} · ${L.dev}: <a href="https://wa.me/972533134140" target="_blank" rel="noopener" aria-label="${L.wa} 053-3134140"><span dir="ltr">053-3134140</span> (${L.wa})</a>`;
+  $("foot").innerHTML=`${L.foot} · ${L.dev} · <ahref="https://wa.me/972533134140" target="_blank" rel="noopener" aria-label="${L.wa} 053-3134140"><span dir="ltr">053-3134140</span> (${L.wa})</a>`;
   renderTopics();
 }
 function renderTopics(){const L=T[st.ui];
