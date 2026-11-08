@@ -1,15 +1,4 @@
 {
- "97cP2c1IUVo": {
-  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "Daf Yomi Bechoros Daf 50 by R’ Eli Stefansky (unedited)",
-  "description": "",
-  "publishedAt": "2026-11-06T12:56:49Z",
-  "duration": "PT1H16M34S",
-  "liveBroadcastContent": "none",
-  "privacyStatus": "unlisted",
-  "embeddable": true,
-  "defaultAudioLanguage": "zxx"
- },
  "I6drEMPPPqM": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
   "title": "CHAZARAH - Bechoros Daf 49 | \"Nothing but the Daf\" with R' Eli Stefansky",
@@ -64087,11 +64076,11 @@
  },
  "eGDXQ2PDOXE": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "Daf Yomi Bechoros Daf 51 by R’ Eli Stefansky (unedited)",
+  "title": "מרכז דף יומי -  בכורות דף נב. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
   "description": "",
-  "publishedAt": "2026-11-08T06:11:03Z",
-  "duration": "P0D",
-  "liveBroadcastContent": "upcoming",
+  "publishedAt": "2026-11-08T20:11:35Z",
+  "duration": "PT1H10M54S",
+  "liveBroadcastContent": "none",
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
@@ -64101,9 +64090,9 @@
   "title": "Daf Yomi Bechoros Daf 51 by R’ Eli Stefansky (unedited)",
   "description": "",
   "publishedAt": "2026-11-07T20:29:13Z",
-  "duration": "PT1H2M49S",
+  "duration": "PT1H2M43S",
   "liveBroadcastContent": "none",
-  "privacyStatus": "public",
+  "privacyStatus": "unlisted",
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
  },
@@ -64150,5 +64139,38 @@
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "iw"
+ },
+ "s-OL8OlqcBE": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  בכורות דף נב. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-08T20:18:34Z",
+  "duration": "P0D",
+  "liveBroadcastContent": "upcoming",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
+ },
+ "jMdfveBc2XM": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "חזרה - בכורות דף נא | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "description": "השיעור מתקיים\r\nבימים א' עד ה' בשעה 9 בערב\r\nשישי ומוצ\"ש משתנה לפי זמן כניסת ויציאת שבת\r\nבמרכז דף היומי,\r\nרחוב נחל נועם 9, בית שמש\r\n\r\nארה״ב: 605-562-0066\r\nישראל: 055-DAF-YOMI (055-323-9664)\r\nבריטנה: 03-333-661-463\r\nבלגיה: 0480-201-272\r\n\r\nשליחת מייל לר' אלי:\r\nRebeli@mdydaf.com\r\n\r\nלהקדשת שיעור:\r\nhttp://donate.mdydaf.com\r\n\r\nקישור לזום בזמן השיעור:\r\nhttps://Zoom.8MinDaf.com\r\n\r\nקישור לקבוצת וואטסאפ:\r\nhttps://Hebrew.MDYdaf.com\r\n\r\nקישור לקבוצת סטטוסים בעברית:\r\nhttps://HebrewStatus.MDYdaf.com\r\n\r\n00:00 - שבוע טוב רבוייתי\r\n00:16 - דף נא’ עמוד א\r\n18:29 - דף נא’ עמוד ב\r\n27:23 - רבוייתי שיהיה לכם שבוע טוב",
+  "publishedAt": "2026-11-08T13:23:39Z",
+  "duration": "PT27M32S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "iw"
+ },
+ "RNfp0yd6gns": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "CHAZARAH - Bechoros Daf 51 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "description": "00:00 - Good Morning\r\n00:16 - 51A\r\n21:24 - 51B\r\n29:11 - Have A Wonderful Day\r\n--\r\nMDY presents: \"Nothing but the Daf\", R’ Eli Stefansky’s MDY (Mercaz Daf Yomi) Shiur in a concise format - all the clarity of the full daf Shiur, with Reb Eli's unique charts and visual aids, without any extras (emails, stories etc.)\r\n\r\nPerfect for Chazarah or anyone who wants a quick, focused Daf.",
+  "publishedAt": "2026-11-08T12:49:10Z",
+  "duration": "PT29M33S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "en"
  }
 }
