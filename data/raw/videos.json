@@ -52731,7 +52731,7 @@
   "liveBroadcastContent": "none",
   "privacyStatus": "public",
   "embeddable": true,
-  "defaultAudioLanguage": "en"
+  "defaultAudioLanguage": null
  },
  "rUNC06iPywc": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
@@ -64081,7 +64081,7 @@
   "publishedAt": "2026-11-08T20:11:35Z",
   "duration": "PT1H10M54S",
   "liveBroadcastContent": "none",
-  "privacyStatus": "public",
+  "privacyStatus": "unlisted",
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
  },
@@ -64142,12 +64142,12 @@
  },
  "s-OL8OlqcBE": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "מרכז דף יומי -  בכורות דף נב. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "title": "Daf Yomi Bechoros Daf 52 by R’ Eli Stefansky (unedited)",
   "description": "",
   "publishedAt": "2026-11-08T20:18:34Z",
-  "duration": "P0D",
-  "liveBroadcastContent": "upcoming",
-  "privacyStatus": "public",
+  "duration": "PT1H1M7S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "unlisted",
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
  },
@@ -64172,5 +64172,38 @@
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "en"
+ },
+ "zGY4eAPMiqI": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "Daf Yomi Bechoros Daf 52 by R' Eli Stefansky",
+  "description": "Thanks for learning with us!\r\n--\r\n00:00 - Good Morning\r\n01:56 - Emails\r\n08:02 - MDYsponsor.com\r\n10:19 - Questions & Guests\r\n12:02 - 51B\r\n21:04 - 52A\r\n37:24 - 52B\r\n58:23 - Have A Wonderful Day\r\n--\r\n\r\nTake the Quiz: Kahoot.MDYdaf.com\r\n\r\nSupport the Shiur: MDYsponsor.com\r\n\r\nWhere to Watch & Listen Find us on your favorite platform:\r\nhttps://mdydaf.com/learn#platforms\r\n\r\n\r\nUS: 605-562-0066\r\nIsrael: 055-DAF-YOMI (055-323-9664)\r\nUK: 03-333-661-463\r\nBelgium: 0480-201-272\r\n\r\n#DafYomi #EliStefansky #Bechoros #MDY",
+  "publishedAt": "2026-11-09T11:44:15Z",
+  "duration": "PT58M45S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "en"
+ },
+ "6-346FfJi1M": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי - בכורות דף נב. - ר' אלי סטפנסקי שליט\"א",
+  "description": "השיעור מתקיים\r\nבימים א' עד ה' בשעה 9 בערב\r\nשישי ומוצ\"ש משתנה לפי זמן כניסת ויציאת שבת\r\nבמרכז דף היומי,\r\nרחוב נחל נועם 9, בית שמש\r\n\r\nארה״ב: 605-562-0066\r\nישראל: 055-DAF-YOMI (055-323-9664)\r\nבריטנה: 03-333-661-463\r\nבלגיה: 0480-201-272\r\n\r\nשליחת מייל לר' אלי:\r\nRebeli@mdydaf.com\r\n\r\nלהקדשת שיעור:\r\nhttp://donate.mdydaf.com\r\n\r\nקישור לזום בזמן השיעור:\r\nhttps://Zoom.8MinDaf.com\r\n\r\nקישור לקבוצת וואטסאפ:\r\nhttps://Hebrew.MDYdaf.com\r\n\r\nקישור לקבוצת סטטוסים בעברית:\r\nhttps://HebrewStatus.MDYdaf.com\r\n\r\n00:00 - שירה\r\n00:21 - ערב טוב רבוייתי\r\n00:28 - פרנסים\r\n00:48 - מיילים\r\n06:05 - דף נא’ עמוד ב\r\n12:17 - דף נב’ עמוד א\r\n32:54 - דף נב’ עמוד ב\r\n53:50 - רבוייתי שיהיה לכם ערב טוב ונעים\r\n\r\n#דף_היומי #זה_לא_הדף_זה_היומי #השיעור_של_ר_אלי#MDY #מרכז_דף_היומי",
+  "publishedAt": "2026-11-09T07:31:35Z",
+  "duration": "PT53M59S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "iw"
+ },
+ "nRWV9823NMc": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "Work, Work, Work… And YOUR Torah? 📖",
+  "description": "Join MDY for Arachin: JoinDafYomi.com\n\nSupport the Shiur: MDYsponsor.com\n\nWhere to Watch & Listen Find us on your favorite platform:\nhttps://mdydaf.com/learn#platforms\n\n#DafYomi #EliStefansky #MDY",
+  "publishedAt": "2026-11-08T17:44:10Z",
+  "duration": "PT1M12S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
  }
 }

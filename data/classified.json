@@ -104255,18 +104255,9 @@
   "date": "2026-11-08T20:11:35Z",
   "min": 71,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "he-full",
-  "mas": "Bechoros",
-  "dafs": [
-   52
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "z_3SzUiy3Hs": {
   "id": "z_3SzUiy3Hs",
@@ -104356,22 +104347,13 @@
  },
  "s-OL8OlqcBE": {
   "id": "s-OL8OlqcBE",
-  "title": "מרכז דף יומי -  בכורות דף נב. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "title": "Daf Yomi Bechoros Daf 52 by R’ Eli Stefansky (unedited)",
   "date": "2026-11-08T20:18:34Z",
-  "min": 0,
+  "min": 61,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "he-full",
-  "mas": "Bechoros",
-  "dafs": [
-   52
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "jMdfveBc2XM": {
   "id": "jMdfveBc2XM",
@@ -104410,5 +104392,53 @@
   "cycle": 14,
   "dateDiff": 1,
   "speaker": "Eli Stefansky"
+ },
+ "zGY4eAPMiqI": {
+  "id": "zGY4eAPMiqI",
+  "title": "Daf Yomi Bechoros Daf 52 by R' Eli Stefansky",
+  "date": "2026-11-09T11:44:15Z",
+  "min": 59,
+  "playlists": [
+   "Daf Yomi Bechoros by R’ Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-full",
+  "mas": "Bechoros",
+  "dafs": [
+   52
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "6-346FfJi1M": {
+  "id": "6-346FfJi1M",
+  "title": "מרכז דף יומי - בכורות דף נב. - ר' אלי סטפנסקי שליט\"א",
+  "date": "2026-11-09T07:31:35Z",
+  "min": 54,
+  "playlists": [
+   "מרכז דף יומי - מסכת בכורות - ע\"י ר' אלי סטפנסקי שליט\"א"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Bechoros",
+  "dafs": [
+   52
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "nRWV9823NMc": {
+  "id": "nRWV9823NMc",
+  "title": "Work, Work, Work… And YOUR Torah? 📖",
+  "date": "2026-11-08T17:44:10Z",
+  "min": 1,
+  "playlists": [],
+  "flags": [],
+  "kind": "extra",
+  "category": "chizuk"
  }
 }
