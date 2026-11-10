@@ -104249,16 +104249,6 @@
   "dateDiff": 0,
   "speaker": "Eli Stefansky"
  },
- "eGDXQ2PDOXE": {
-  "id": "eGDXQ2PDOXE",
-  "title": "מרכז דף יומי -  בכורות דף נב. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
-  "date": "2026-11-08T20:11:35Z",
-  "min": 71,
-  "playlists": [],
-  "flags": [],
-  "kind": "hidden",
-  "reason": "not public on YouTube: unlisted"
- },
  "z_3SzUiy3Hs": {
   "id": "z_3SzUiy3Hs",
   "title": "Daf Yomi Bechoros Daf 51 by R’ Eli Stefansky (unedited)",
@@ -104462,22 +104452,13 @@
  },
  "okiUJGJHuRQ": {
   "id": "okiUJGJHuRQ",
-  "title": "מרכז דף יומי -  בכורות דף נג. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "title": "Daf Yomi Bechoros Daf 53 by R’ Eli Stefansky (unedited)",
   "date": "2026-11-09T20:20:45Z",
-  "min": 0,
+  "min": 56,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "he-full",
-  "mas": "Bechoros",
-  "dafs": [
-   53
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "PVVxhdTuCoA": {
   "id": "PVVxhdTuCoA",
@@ -104485,18 +104466,9 @@
   "date": "2026-11-09T20:10:19Z",
   "min": 70,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "he-full",
-  "mas": "Bechoros",
-  "dafs": [
-   53
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "eBOn0duSDQQ": {
   "id": "eBOn0duSDQQ",
@@ -104515,6 +104487,44 @@
   ],
   "cycle": 14,
   "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "AHNGIEQFLkI": {
+  "id": "AHNGIEQFLkI",
+  "title": "Daf Yomi Bechoros Daf 53 by R' Eli Stefansky",
+  "date": "2026-11-10T12:27:42Z",
+  "min": 54,
+  "playlists": [
+   "Daf Yomi Bechoros by R’ Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-full",
+  "mas": "Bechoros",
+  "dafs": [
+   53
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "y5KMwf0Gs38": {
+  "id": "y5KMwf0Gs38",
+  "title": "מרכז דף יומי - בכורות דף נג. - ר' אלי סטפנסקי שליט\"א",
+  "date": "2026-11-10T07:09:54Z",
+  "min": 55,
+  "playlists": [
+   "מרכז דף יומי - מסכת בכורות - ע\"י ר' אלי סטפנסקי שליט\"א"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Bechoros",
+  "dafs": [
+   53
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
   "speaker": "Eli Stefansky"
  }
 }
