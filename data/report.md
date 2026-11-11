@@ -1,11 +1,11 @@
 # Classification report
 
-Generated 2026-11-11 12:16 UTC · 5850 videos
+Generated 2026-11-11 23:13 UTC · 5855 videos
 
 | | videos |
 |---|---|
-| Daf shiurim | 5139 |
-| Extras | 688 |
+| Daf shiurim | 5140 |
+| Extras | 692 |
 | Unclassified | 9 |
 | Hidden (unlisted/private on YouTube — not shown) | 14 |
 
@@ -16,7 +16,7 @@ Generated 2026-11-11 12:16 UTC · 5850 videos
 | he-full | 1054 | 0 | 1054 | 1053 / 2711 (38.8%) | 1053 / 2711 (38.8%) | 2023-12-17 | 2026-11-11 |
 | he-only | 385 | 0 | 385 | 385 / 2711 (14.2%) | 385 / 2711 (14.2%) | 2025-10-23 | 2026-11-11 |
 | en-full | 2990 | 484 | 2506 | 2503 / 2711 (92.3%) | 2686 / 2711 (99.1%) | 2018-08-17 | 2026-11-11 |
-| en-only | 421 | 0 | 421 | 421 / 2711 (15.5%) | 421 / 2711 (15.5%) | 2025-09-17 | 2026-11-10 |
+| en-only | 422 | 0 | 422 | 422 / 2711 (15.6%) | 422 / 2711 (15.6%) | 2025-09-17 | 2026-11-11 |
 | en-8 | 153 | 153 | 0 | 0 / 2711 (0.0%) | 152 / 2711 (5.6%) | 2019-01-23 | 2019-07-03 |
 | he-8 | 136 | 136 | 0 | 0 / 2711 (0.0%) | 136 / 2711 (5.0%) | 2019-01-30 | 2019-07-09 |
 
@@ -55,7 +55,7 @@ Generated 2026-11-11 12:16 UTC · 5850 videos
 | Zevachim זבחים | 119 | **119** | 82 | **119** | **119** | · | · |
 | Menachos מנחות | 109 | **109** | **109** | **109** | **109** | · | · |
 | Chullin חולין | 141 | **141** | **141** | **141** | **141** | · | · |
-| Bechoros בכורות | 60 | 53 | 53 | 53 | 52 | · | · |
+| Bechoros בכורות | 60 | 53 | 53 | 53 | 53 | · | · |
 | Arachin ערכין | 33 | · | · | · | · | · | · |
 | Temurah תמורה | 33 | · | · | · | · | · | · |
 | Kereisos כריתות | 27 | · | · | · | · | · | · |
@@ -70,7 +70,7 @@ Generated 2026-11-11 12:16 UTC · 5850 videos
 - **he-full** (1060 dafim in range): 7 missing — Bava Metzia 48, Bava Metzia 55, Bava Metzia 56, Bava Metzia 61, Bava Metzia 62, Bava Metzia 67, Bava Metzia 69
 - **he-only** (385 dafim in range): none missing
 - **en-full** (2503 dafim in range): none missing
-- **en-only** (421 dafim in range): none missing
+- **en-only** (422 dafim in range): none missing
 
 ## Duplicates (more than one video for the same track + daf, same cycle)
 
@@ -234,9 +234,9 @@ Generated 2026-11-11 12:16 UTC · 5850 videos
 
 ## Extras
 
-- chizuk: 614
+- chizuk: 617
 - siyumim: 50
-- talks: 22
+- talks: 23
 - 8min: 2
 
 ## Unclassified: 9

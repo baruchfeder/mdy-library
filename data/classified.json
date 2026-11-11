@@ -104660,5 +104660,64 @@
   "cycle": 14,
   "dateDiff": 1,
   "speaker": "Eli Stefansky"
+ },
+ "uxQn9F7NKdU": {
+  "id": "uxQn9F7NKdU",
+  "title": "(מרכז דף יומי בכורות נה. ר' אלי סטפנסקי שליטא (לא ערוך",
+  "date": "2026-11-11T16:52:45Z",
+  "min": 36,
+  "playlists": [],
+  "flags": [],
+  "kind": "extra",
+  "category": "talks"
+ },
+ "ifWWepXW4E8": {
+  "id": "ifWWepXW4E8",
+  "title": "מְהֵרָה יִבָנֶה בֵית הַמִקְדָש🎶 ואע\"פ שֶׁיִּתְמַהְמֵהַּ...! 🎵",
+  "date": "2026-11-11T14:53:56Z",
+  "min": 2,
+  "playlists": [],
+  "flags": [],
+  "kind": "extra",
+  "category": "chizuk"
+ },
+ "odqVTYwNX_w": {
+  "id": "odqVTYwNX_w",
+  "title": "One Mitzvah, Instead of All the Rest?",
+  "date": "2026-11-11T14:14:09Z",
+  "min": 1,
+  "playlists": [],
+  "flags": [],
+  "kind": "extra",
+  "category": "chizuk"
+ },
+ "fCqzun77GxQ": {
+  "id": "fCqzun77GxQ",
+  "title": "מצווה אחת, במקום כל השאר?",
+  "date": "2026-11-11T14:12:42Z",
+  "min": 1,
+  "playlists": [],
+  "flags": [],
+  "kind": "extra",
+  "category": "chizuk"
+ },
+ "aKphsM1fONM": {
+  "id": "aKphsM1fONM",
+  "title": "CHAZARAH - Bechoros Daf 54 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "date": "2026-11-11T12:52:16Z",
+  "min": 26,
+  "playlists": [
+   "CHAZARAH - Bechoros | \"Nothing but the Daf\" with R' Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-only",
+  "mas": "Bechoros",
+  "dafs": [
+   54
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
  }
 }
