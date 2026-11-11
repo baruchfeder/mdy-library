@@ -104460,16 +104460,6 @@
   "kind": "hidden",
   "reason": "not public on YouTube: unlisted"
  },
- "PVVxhdTuCoA": {
-  "id": "PVVxhdTuCoA",
-  "title": "מרכז דף יומי -  בכורות דף נג. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
-  "date": "2026-11-09T20:10:19Z",
-  "min": 70,
-  "playlists": [],
-  "flags": [],
-  "kind": "hidden",
-  "reason": "not public on YouTube: unlisted"
- },
  "eBOn0duSDQQ": {
   "id": "eBOn0duSDQQ",
   "title": "CHAZARAH - Bechoros Daf 52 | \"Nothing but the Daf\" with R' Eli Stefansky",
@@ -104562,37 +104552,19 @@
   "date": "2026-11-10T20:04:49Z",
   "min": 57,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "he-full",
-  "mas": "Bechoros",
-  "dafs": [
-   54
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "PT8FdbBJXRM": {
   "id": "PT8FdbBJXRM",
   "title": "Daf Yomi Bechoros Daf 54 by R’ Eli Stefansky (unedited)",
-  "date": "2026-11-10T17:42:17Z",
+  "date": "2026-11-11T07:09:26Z",
   "min": 62,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "en-full",
-  "mas": "Bechoros",
-  "dafs": [
-   54
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "O-3j43M5sIA": {
   "id": "O-3j43M5sIA",
@@ -104605,6 +104577,82 @@
   "flags": [],
   "kind": "daf",
   "track": "en-only",
+  "mas": "Bechoros",
+  "dafs": [
+   53
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "9ZxSU8xDm58": {
+  "id": "9ZxSU8xDm58",
+  "title": "חזרה - בכורות דף נד | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "date": "2026-11-11T12:00:12Z",
+  "min": 27,
+  "playlists": [
+   "חזרה מסכת בכורות | \"רק הדף\" עם ר' אלי סטפנסקי"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-only",
+  "mas": "Bechoros",
+  "dafs": [
+   54
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "1nyB-FS0kow": {
+  "id": "1nyB-FS0kow",
+  "title": "Daf Yomi Bechoros Daf 54 by R' Eli Stefansky",
+  "date": "2026-11-11T10:50:37Z",
+  "min": 44,
+  "playlists": [
+   "Daf Yomi Bechoros by R’ Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-full",
+  "mas": "Bechoros",
+  "dafs": [
+   54
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "C9jrue_NLjU": {
+  "id": "C9jrue_NLjU",
+  "title": "מרכז דף יומי - בכורות דף נד. - ר' אלי סטפנסקי שליט\"א",
+  "date": "2026-11-11T06:54:05Z",
+  "min": 49,
+  "playlists": [
+   "מרכז דף יומי - מסכת בכורות - ע\"י ר' אלי סטפנסקי שליט\"א"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Bechoros",
+  "dafs": [
+   54
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "df0UPtS_awg": {
+  "id": "df0UPtS_awg",
+  "title": "חזרה - בכורות דף נג | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "date": "2026-11-10T23:04:54Z",
+  "min": 28,
+  "playlists": [
+   "חזרה מסכת בכורות | \"רק הדף\" עם ר' אלי סטפנסקי"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-only",
   "mas": "Bechoros",
   "dafs": [
    53
