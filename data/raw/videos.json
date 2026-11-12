@@ -61839,7 +61839,7 @@
   "liveBroadcastContent": "none",
   "privacyStatus": "public",
   "embeddable": true,
-  "defaultAudioLanguage": null
+  "defaultAudioLanguage": "en"
  },
  "R7jDqKSaHNg": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
@@ -64263,11 +64263,11 @@
  },
  "c7j95bjTgA4": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "מרכז דף יומי -  בכורות דף נד. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "title": "מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
   "description": "",
   "publishedAt": "2026-11-10T20:10:30Z",
-  "duration": "P0D",
-  "liveBroadcastContent": "upcoming",
+  "duration": "PT45M19S",
+  "liveBroadcastContent": "none",
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
@@ -64409,10 +64409,43 @@
   "title": "Daf Yomi Bechoros Daf 55 by R' Eli Stefansky (unedited)",
   "description": "",
   "publishedAt": "2026-11-12T03:13:54Z",
-  "duration": "PT54M15S",
+  "duration": "PT54M5S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "unlisted",
+  "embeddable": true,
+  "defaultAudioLanguage": "en-US"
+ },
+ "_3uGPZKcGvI": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-12T19:42:05Z",
+  "duration": "P0D",
+  "liveBroadcastContent": "upcoming",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
+ },
+ "zGEZxnpy_oc": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "CHAZARAH - Bechoros Daf 55 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "description": "00:00 - Good Morning\r\n01:49 - 54B\r\n07:03 - 55A\r\n23:15 - 55B\r\n25:24 - Have A Wonderful Day\r\n--\r\nMDY presents: \"Nothing but the Daf\", R’ Eli Stefansky’s MDY (Mercaz Daf Yomi) Shiur in a concise format - all the clarity of the full daf Shiur, with Reb Eli's unique charts and visual aids, without any extras (emails, stories etc.)\r\n\r\nPerfect for Chazarah or anyone who wants a quick, focused Daf.",
+  "publishedAt": "2026-11-12T19:41:35Z",
+  "duration": "PT25M46S",
   "liveBroadcastContent": "none",
   "privacyStatus": "public",
   "embeddable": true,
-  "defaultAudioLanguage": "en-US"
+  "defaultAudioLanguage": "en"
+ },
+ "pO4zk1_eRE8": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "Daf Yomi Bechoros Daf 55 by R' Eli Stefansky",
+  "description": "Thanks for learning with us!\r\n\r\n00:00 - Good Morning\r\n01:51 - Live from Toms River\r\n05:16 - Emails\r\n12:58 - MDYsponsor.com\r\n18:33 - Questions/Intro\r\n20:40 - 54B\r\n23:43 - 55A\r\n49:35 - 55B\r\n52:37 - Have A Wonderful Day\r\n\r\nSupport the Shiur: MDYsponsor.com\r\n\r\nWhere to Watch & Listen Find us on your favorite platform:\r\nhttps://mdydaf.com/learn#platforms\r\n\r\n\r\nUS: 605-562-0066\r\nIsrael: 055-DAF-YOMI (055-323-9664)\r\nUK: 03-333-661-463\r\nBelgium: 0480-201-272\r\n\r\n#DafYomi #EliStefansky #Bechoros #MDY",
+  "publishedAt": "2026-11-12T13:33:14Z",
+  "duration": "PT53M2S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "en"
  }
 }
