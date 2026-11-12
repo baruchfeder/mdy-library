@@ -104546,16 +104546,6 @@
   "dateDiff": 0,
   "speaker": "Eli Stefansky"
  },
- "-XEbilfyYuM": {
-  "id": "-XEbilfyYuM",
-  "title": "מרכז דף יומי -  בכורות דף נד. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
-  "date": "2026-11-10T20:04:49Z",
-  "min": 57,
-  "playlists": [],
-  "flags": [],
-  "kind": "hidden",
-  "reason": "not public on YouTube: unlisted"
- },
  "PT8FdbBJXRM": {
   "id": "PT8FdbBJXRM",
   "title": "Daf Yomi Bechoros Daf 54 by R’ Eli Stefansky (unedited)",
@@ -104661,16 +104651,6 @@
   "dateDiff": 1,
   "speaker": "Eli Stefansky"
  },
- "uxQn9F7NKdU": {
-  "id": "uxQn9F7NKdU",
-  "title": "(מרכז דף יומי בכורות נה. ר' אלי סטפנסקי שליטא (לא ערוך",
-  "date": "2026-11-11T16:52:45Z",
-  "min": 36,
-  "playlists": [],
-  "flags": [],
-  "kind": "extra",
-  "category": "talks"
- },
  "ifWWepXW4E8": {
   "id": "ifWWepXW4E8",
   "title": "מְהֵרָה יִבָנֶה בֵית הַמִקְדָש🎶 ואע\"פ שֶׁיִּתְמַהְמֵהַּ...! 🎵",
@@ -104718,6 +104698,63 @@
   ],
   "cycle": 14,
   "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "p_CeIHGAxnI": {
+  "id": "p_CeIHGAxnI",
+  "title": "חזרה - בכורות דף נה | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "date": "2026-11-12T11:19:42Z",
+  "min": 27,
+  "playlists": [
+   "חזרה מסכת בכורות | \"רק הדף\" עם ר' אלי סטפנסקי"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-only",
+  "mas": "Bechoros",
+  "dafs": [
+   55
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "cTsMX4hqhqs": {
+  "id": "cTsMX4hqhqs",
+  "title": "מרכז דף יומי - בכורות דף נה. - ר' אלי סטפנסקי שליט\"א",
+  "date": "2026-11-12T07:46:13Z",
+  "min": 34,
+  "playlists": [
+   "מרכז דף יומי - מסכת בכורות - ע\"י ר' אלי סטפנסקי שליט\"א"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Bechoros",
+  "dafs": [
+   55
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "Sr10HLE-j7A": {
+  "id": "Sr10HLE-j7A",
+  "title": "Daf Yomi Bechoros Daf 55 by R' Eli Stefansky (unedited)",
+  "date": "2026-11-12T03:13:54Z",
+  "min": 54,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "en-full",
+  "mas": "Bechoros",
+  "dafs": [
+   55
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
   "speaker": "Eli Stefansky"
  }
 }
