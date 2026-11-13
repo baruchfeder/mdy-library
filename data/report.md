@@ -1,21 +1,21 @@
 # Classification report
 
-Generated 2026-11-12 22:29 UTC · 5859 videos
+Generated 2026-11-13 12:42 UTC · 5862 videos
 
 | | videos |
 |---|---|
-| Daf shiurim | 5145 |
+| Daf shiurim | 5147 |
 | Extras | 691 |
 | Unclassified | 9 |
-| Hidden (unlisted/private on YouTube — not shown) | 14 |
+| Hidden (unlisted/private on YouTube — not shown) | 15 |
 
 ## Per track
 
 | track | videos | cycle 13 (2012-2020) | cycle 14 (2020-) | dafim covered, cycle 14 | dafim covered, any cycle | first | last |
 |---|---|---|---|---|---|---|---|
-| he-full | 1056 | 0 | 1056 | 1055 / 2711 (38.9%) | 1055 / 2711 (38.9%) | 2023-12-17 | 2026-11-12 |
+| he-full | 1057 | 0 | 1057 | 1056 / 2711 (39.0%) | 1056 / 2711 (39.0%) | 2023-12-17 | 2026-11-13 |
 | he-only | 386 | 0 | 386 | 386 / 2711 (14.2%) | 386 / 2711 (14.2%) | 2025-10-23 | 2026-11-12 |
-| en-full | 2991 | 484 | 2507 | 2504 / 2711 (92.4%) | 2686 / 2711 (99.1%) | 2018-08-17 | 2026-11-12 |
+| en-full | 2992 | 484 | 2508 | 2505 / 2711 (92.4%) | 2686 / 2711 (99.1%) | 2018-08-17 | 2026-11-13 |
 | en-only | 423 | 0 | 423 | 423 / 2711 (15.6%) | 423 / 2711 (15.6%) | 2025-09-17 | 2026-11-12 |
 | en-8 | 153 | 153 | 0 | 0 / 2711 (0.0%) | 152 / 2711 (5.6%) | 2019-01-23 | 2019-07-03 |
 | he-8 | 136 | 136 | 0 | 0 / 2711 (0.0%) | 136 / 2711 (5.0%) | 2019-01-30 | 2019-07-09 |
@@ -55,7 +55,7 @@ Generated 2026-11-12 22:29 UTC · 5859 videos
 | Zevachim זבחים | 119 | **119** | 82 | **119** | **119** | · | · |
 | Menachos מנחות | 109 | **109** | **109** | **109** | **109** | · | · |
 | Chullin חולין | 141 | **141** | **141** | **141** | **141** | · | · |
-| Bechoros בכורות | 60 | 55 | 54 | 54 | 54 | · | · |
+| Bechoros בכורות | 60 | 56 | 54 | 55 | 54 | · | · |
 | Arachin ערכין | 33 | · | · | · | · | · | · |
 | Temurah תמורה | 33 | · | · | · | · | · | · |
 | Kereisos כריתות | 27 | · | · | · | · | · | · |
@@ -67,9 +67,9 @@ Generated 2026-11-12 22:29 UTC · 5859 videos
 
 ## Missing dafim inside the stretch each track ran in cycle 14
 
-- **he-full** (1062 dafim in range): 7 missing — Bava Metzia 48, Bava Metzia 55, Bava Metzia 56, Bava Metzia 61, Bava Metzia 62, Bava Metzia 67, Bava Metzia 69
+- **he-full** (1063 dafim in range): 7 missing — Bava Metzia 48, Bava Metzia 55, Bava Metzia 56, Bava Metzia 61, Bava Metzia 62, Bava Metzia 67, Bava Metzia 69
 - **he-only** (386 dafim in range): none missing
-- **en-full** (2504 dafim in range): none missing
+- **en-full** (2505 dafim in range): none missing
 - **en-only** (423 dafim in range): none missing
 
 ## Duplicates (more than one video for the same track + daf, same cycle)
@@ -122,12 +122,12 @@ Generated 2026-11-12 22:29 UTC · 5859 videos
   - 2018-08-17 · 24 min · [Daf Yomi menachos daf 7 part 1](https://youtu.be/5yDH8dguWBw) · _part_
   - 2018-08-17 · 19 min · [Daf Yomi menachos daf 7 part 2 by R' Eli Stefansky](https://youtu.be/IeL26AjTatU) · _part_
 - **he-full · 14 · Bechoros-56**
-  - 2026-11-10 · 45 min · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/c7j95bjTgA4) · _unedited_
-  - 2026-11-12 · 0 min · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/_3uGPZKcGvI) · _unedited_
+  - 2026-11-13 · 41 min · [מרכז דף יומי - בכורות דף נו. - ר' אלי סטפנסקי שליט"א](https://youtu.be/pcqoTqf-ypI)
+  - 2026-11-13 · 45 min · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/c7j95bjTgA4) · _unedited_
 
 </details>
 
-## Same daf in both cycles 13 and 14 (same track): 293 dafim
+## Same daf in both cycles 13 and 14 (same track): 294 dafim
 
 ## Flags on classified videos
 
@@ -228,8 +228,8 @@ Generated 2026-11-12 22:29 UTC · 5859 videos
 - en-full · Menachos 8 · c13 · 2018-08-19 · [Daf Yomi menachos daf 8 part 1](https://youtu.be/V0oRxL2QeeI) · _part_
 - en-full · Menachos 7 · c13 · 2018-08-17 · [Daf Yomi menachos daf 7 part 2 by R' Eli Stefansky](https://youtu.be/IeL26AjTatU) · _part_
 - en-full · Menachos 7 · c13 · 2018-08-17 · [Daf Yomi menachos daf 7 part 1](https://youtu.be/5yDH8dguWBw) · _part_
-- he-full · Bechoros 56 · c14 · 2026-11-10 · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/c7j95bjTgA4) · _unedited_
-- he-full · Bechoros 56 · c14 · 2026-11-12 · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/_3uGPZKcGvI) · _unedited_
+- he-full · Bechoros 56 · c14 · 2026-11-13 · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/c7j95bjTgA4) · _unedited_
+- he-full · Bechoros 57 · c14 · 2026-11-13 · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/O3kPDFI7nvM) · _unedited_
 
 </details>
 
