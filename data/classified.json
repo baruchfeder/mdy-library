@@ -104800,7 +104800,7 @@
   "id": "O3kPDFI7nvM",
   "title": "מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
   "date": "2026-11-13T11:42:25Z",
-  "min": 0,
+  "min": 78,
   "playlists": [],
   "flags": [
    "unedited"
@@ -104848,6 +104848,25 @@
   "mas": "Bechoros",
   "dafs": [
    56
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "aK6dGXjrTDw": {
+  "id": "aK6dGXjrTDw",
+  "title": "מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-13T13:15:11Z",
+  "min": 0,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Bechoros",
+  "dafs": [
+   57
   ],
   "cycle": 14,
   "dateDiff": 0,

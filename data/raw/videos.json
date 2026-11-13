@@ -64420,7 +64420,7 @@
   "title": "Daf Yomi Bechoros Daf 56 by R’ Eli Stefansky (unedited)",
   "description": "",
   "publishedAt": "2026-11-12T19:42:05Z",
-  "duration": "PT55M3S",
+  "duration": "PT55M1S",
   "liveBroadcastContent": "none",
   "privacyStatus": "unlisted",
   "embeddable": true,
@@ -64453,8 +64453,8 @@
   "title": "מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
   "description": "",
   "publishedAt": "2026-11-13T11:42:25Z",
-  "duration": "P0D",
-  "liveBroadcastContent": "live",
+  "duration": "PT1H17M43S",
+  "liveBroadcastContent": "none",
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
@@ -64480,5 +64480,16 @@
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "iw"
+ },
+ "aK6dGXjrTDw": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-13T13:15:11Z",
+  "duration": "P0D",
+  "liveBroadcastContent": "upcoming",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
  }
 }

@@ -1,10 +1,10 @@
 # Classification report
 
-Generated 2026-11-13 12:42 UTC · 5862 videos
+Generated 2026-11-13 22:17 UTC · 5863 videos
 
 | | videos |
 |---|---|
-| Daf shiurim | 5147 |
+| Daf shiurim | 5148 |
 | Extras | 691 |
 | Unclassified | 9 |
 | Hidden (unlisted/private on YouTube — not shown) | 15 |
@@ -13,7 +13,7 @@ Generated 2026-11-13 12:42 UTC · 5862 videos
 
 | track | videos | cycle 13 (2012-2020) | cycle 14 (2020-) | dafim covered, cycle 14 | dafim covered, any cycle | first | last |
 |---|---|---|---|---|---|---|---|
-| he-full | 1057 | 0 | 1057 | 1056 / 2711 (39.0%) | 1056 / 2711 (39.0%) | 2023-12-17 | 2026-11-13 |
+| he-full | 1058 | 0 | 1058 | 1056 / 2711 (39.0%) | 1056 / 2711 (39.0%) | 2023-12-17 | 2026-11-13 |
 | he-only | 386 | 0 | 386 | 386 / 2711 (14.2%) | 386 / 2711 (14.2%) | 2025-10-23 | 2026-11-12 |
 | en-full | 2992 | 484 | 2508 | 2505 / 2711 (92.4%) | 2686 / 2711 (99.1%) | 2018-08-17 | 2026-11-13 |
 | en-only | 423 | 0 | 423 | 423 / 2711 (15.6%) | 423 / 2711 (15.6%) | 2025-09-17 | 2026-11-12 |
@@ -77,9 +77,9 @@ Generated 2026-11-13 12:42 UTC · 5862 videos
 - en-full cycle 14: 2 dafim
 - en-full cycle 13: 10 dafim
 - en-8 cycle 13: 1 dafim
-- he-full cycle 14: 1 dafim
+- he-full cycle 14: 2 dafim
 
-<details><summary>All 14 duplicate groups</summary>
+<details><summary>All 15 duplicate groups</summary>
 
 - **en-full · 14 · Shabbos-129**
   - 2020-07-13 · 46 min · [Daf Yomi Shabbos Daf 129  by R’ Eli Stefansky](https://youtu.be/ZAjHMOw7rjU)
@@ -124,6 +124,9 @@ Generated 2026-11-13 12:42 UTC · 5862 videos
 - **he-full · 14 · Bechoros-56**
   - 2026-11-13 · 41 min · [מרכז דף יומי - בכורות דף נו. - ר' אלי סטפנסקי שליט"א](https://youtu.be/pcqoTqf-ypI)
   - 2026-11-13 · 45 min · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/c7j95bjTgA4) · _unedited_
+- **he-full · 14 · Bechoros-57**
+  - 2026-11-13 · 78 min · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/O3kPDFI7nvM) · _unedited_
+  - 2026-11-13 · 0 min · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/aK6dGXjrTDw) · _unedited_
 
 </details>
 
@@ -135,10 +138,10 @@ Generated 2026-11-13 12:42 UTC · 5862 videos
 - speaker:Menachem Mateh: 22
 - part: 10
 - amud b: 3
+- unedited: 3
 - amud B: 2
 - amud A: 2
 - date off by N days: 2
-- unedited: 2
 - manual override: 1
 - in Zevachim playlist; title + date say Menachos: 1
 - speaker:av Chait: 1
@@ -230,6 +233,7 @@ Generated 2026-11-13 12:42 UTC · 5862 videos
 - en-full · Menachos 7 · c13 · 2018-08-17 · [Daf Yomi menachos daf 7 part 1](https://youtu.be/5yDH8dguWBw) · _part_
 - he-full · Bechoros 56 · c14 · 2026-11-13 · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/c7j95bjTgA4) · _unedited_
 - he-full · Bechoros 57 · c14 · 2026-11-13 · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/O3kPDFI7nvM) · _unedited_
+- he-full · Bechoros 57 · c14 · 2026-11-13 · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/aK6dGXjrTDw) · _unedited_
 
 </details>
 
