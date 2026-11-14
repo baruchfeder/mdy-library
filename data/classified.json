@@ -104855,8 +104855,65 @@
  },
  "aK6dGXjrTDw": {
   "id": "aK6dGXjrTDw",
-  "title": "מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "title": "Daf Yomi Bechoros Daf 57 by R’ Eli Stefansky (unedited)",
   "date": "2026-11-13T13:15:11Z",
+  "min": 75,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "en-full",
+  "mas": "Bechoros",
+  "dafs": [
+   57
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "7IFmU0t2DeY": {
+  "id": "7IFmU0t2DeY",
+  "title": "CHAZARAH - Bechoros Daf 56 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "date": "2026-11-14T20:43:05Z",
+  "min": 23,
+  "playlists": [
+   "CHAZARAH - Bechoros | \"Nothing but the Daf\" with R' Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-only",
+  "mas": "Bechoros",
+  "dafs": [
+   56
+  ],
+  "cycle": 14,
+  "dateDiff": 2,
+  "speaker": "Eli Stefansky"
+ },
+ "Jm2dsXpe4KA": {
+  "id": "Jm2dsXpe4KA",
+  "title": "מרכז דף יומי -  בכורות דף נח. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-14T20:33:00Z",
+  "min": 71,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Bechoros",
+  "dafs": [
+   58
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "T70KGQVCsCw": {
+  "id": "T70KGQVCsCw",
+  "title": "מרכז דף יומי -  בכורות דף נח. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-14T20:30:48Z",
   "min": 0,
   "playlists": [],
   "flags": [
@@ -104866,7 +104923,7 @@
   "track": "he-full",
   "mas": "Bechoros",
   "dafs": [
-   57
+   58
   ],
   "cycle": 14,
   "dateDiff": 0,
