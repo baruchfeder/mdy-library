@@ -1,6 +1,6 @@
 # Classification report
 
-Generated 2026-11-13 22:17 UTC · 5863 videos
+Generated 2026-11-14 11:51 UTC · 5863 videos
 
 | | videos |
 |---|---|
@@ -13,7 +13,7 @@ Generated 2026-11-13 22:17 UTC · 5863 videos
 
 | track | videos | cycle 13 (2012-2020) | cycle 14 (2020-) | dafim covered, cycle 14 | dafim covered, any cycle | first | last |
 |---|---|---|---|---|---|---|---|
-| he-full | 1058 | 0 | 1058 | 1056 / 2711 (39.0%) | 1056 / 2711 (39.0%) | 2023-12-17 | 2026-11-13 |
+| he-full | 1058 | 0 | 1058 | 1056 / 2711 (39.0%) | 1056 / 2711 (39.0%) | 2023-12-17 | 2026-11-14 |
 | he-only | 386 | 0 | 386 | 386 / 2711 (14.2%) | 386 / 2711 (14.2%) | 2025-10-23 | 2026-11-12 |
 | en-full | 2992 | 484 | 2508 | 2505 / 2711 (92.4%) | 2686 / 2711 (99.1%) | 2018-08-17 | 2026-11-13 |
 | en-only | 423 | 0 | 423 | 423 / 2711 (15.6%) | 423 / 2711 (15.6%) | 2025-09-17 | 2026-11-12 |
@@ -125,8 +125,8 @@ Generated 2026-11-13 22:17 UTC · 5863 videos
   - 2026-11-13 · 41 min · [מרכז דף יומי - בכורות דף נו. - ר' אלי סטפנסקי שליט"א](https://youtu.be/pcqoTqf-ypI)
   - 2026-11-13 · 45 min · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/c7j95bjTgA4) · _unedited_
 - **he-full · 14 · Bechoros-57**
-  - 2026-11-13 · 78 min · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/O3kPDFI7nvM) · _unedited_
   - 2026-11-13 · 0 min · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/aK6dGXjrTDw) · _unedited_
+  - 2026-11-14 · 78 min · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/O3kPDFI7nvM) · _unedited_
 
 </details>
 
@@ -232,7 +232,7 @@ Generated 2026-11-13 22:17 UTC · 5863 videos
 - en-full · Menachos 7 · c13 · 2018-08-17 · [Daf Yomi menachos daf 7 part 2 by R' Eli Stefansky](https://youtu.be/IeL26AjTatU) · _part_
 - en-full · Menachos 7 · c13 · 2018-08-17 · [Daf Yomi menachos daf 7 part 1](https://youtu.be/5yDH8dguWBw) · _part_
 - he-full · Bechoros 56 · c14 · 2026-11-13 · [מרכז דף יומי -  בכורות דף נו. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/c7j95bjTgA4) · _unedited_
-- he-full · Bechoros 57 · c14 · 2026-11-13 · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/O3kPDFI7nvM) · _unedited_
+- he-full · Bechoros 57 · c14 · 2026-11-14 · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/O3kPDFI7nvM) · _unedited_
 - he-full · Bechoros 57 · c14 · 2026-11-13 · [מרכז דף יומי -  בכורות דף נז. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/aK6dGXjrTDw) · _unedited_
 
 </details>
