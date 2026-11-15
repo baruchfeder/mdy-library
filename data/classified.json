@@ -104950,8 +104950,8 @@
  "lY5rvGBMDCM": {
   "id": "lY5rvGBMDCM",
   "title": "חזרה - בכורות דף נח | \"רק הדף\" עם ר' אלי סטפנסקי",
-  "date": "2026-11-15T12:18:41Z",
-  "min": 0,
+  "date": "2026-11-15T12:22:03Z",
+  "min": 33,
   "playlists": [
    "חזרה מסכת בכורות | \"רק הדף\" עם ר' אלי סטפנסקי"
   ],
@@ -104965,5 +104965,72 @@
   "cycle": 14,
   "dateDiff": 1,
   "speaker": "Eli Stefansky"
+ },
+ "4pTRZq-rr_I": {
+  "id": "4pTRZq-rr_I",
+  "title": "מרכז דף יומי -  בכורות דף נט. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-15T20:23:42Z",
+  "min": 0,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Bechoros",
+  "dafs": [
+   59
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "yqRqvPbyXeM": {
+  "id": "yqRqvPbyXeM",
+  "title": "מרכז דף יומי -  בכורות דף נט. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-15T20:21:38Z",
+  "min": 80,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Bechoros",
+  "dafs": [
+   59
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "wE76tUiqGYM": {
+  "id": "wE76tUiqGYM",
+  "title": "CHAZARAH - Bechoros Daf 58 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "date": "2026-11-15T15:35:48Z",
+  "min": 33,
+  "playlists": [
+   "CHAZARAH - Bechoros | \"Nothing but the Daf\" with R' Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-only",
+  "mas": "Bechoros",
+  "dafs": [
+   58
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "81wRMDHm6uM": {
+  "id": "81wRMDHm6uM",
+  "title": "Who Told You That You Can't?",
+  "date": "2026-11-15T13:06:13Z",
+  "min": 1,
+  "playlists": [],
+  "flags": [],
+  "kind": "extra",
+  "category": "chizuk"
  }
 }
