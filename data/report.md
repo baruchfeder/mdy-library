@@ -1,21 +1,21 @@
 # Classification report
 
-Generated 2026-11-17 00:34 UTC · 5877 videos
+Generated 2026-11-17 13:57 UTC · 5877 videos
 
 | | videos |
 |---|---|
-| Daf shiurim | 5161 |
+| Daf shiurim | 5162 |
 | Extras | 692 |
 | Unclassified | 9 |
-| Hidden (unlisted/private on YouTube — not shown) | 15 |
+| Hidden (unlisted/private on YouTube — not shown) | 14 |
 
 ## Per track
 
 | track | videos | cycle 13 (2012-2020) | cycle 14 (2020-) | dafim covered, cycle 14 | dafim covered, any cycle | first | last |
 |---|---|---|---|---|---|---|---|
-| he-full | 1060 | 0 | 1060 | 1059 / 2711 (39.1%) | 1059 / 2711 (39.1%) | 2023-12-17 | 2026-11-16 |
-| he-only | 390 | 0 | 390 | 390 / 2711 (14.4%) | 390 / 2711 (14.4%) | 2025-10-23 | 2026-11-16 |
-| en-full | 2995 | 484 | 2511 | 2508 / 2711 (92.5%) | 2687 / 2711 (99.1%) | 2018-08-17 | 2026-11-16 |
+| he-full | 1059 | 0 | 1059 | 1059 / 2711 (39.1%) | 1059 / 2711 (39.1%) | 2023-12-17 | 2026-11-17 |
+| he-only | 391 | 0 | 391 | 391 / 2711 (14.4%) | 391 / 2711 (14.4%) | 2025-10-23 | 2026-11-17 |
+| en-full | 2996 | 484 | 2512 | 2509 / 2711 (92.5%) | 2687 / 2711 (99.1%) | 2018-08-17 | 2026-11-17 |
 | en-only | 427 | 0 | 427 | 427 / 2711 (15.8%) | 427 / 2711 (15.8%) | 2025-09-17 | 2026-11-16 |
 | en-8 | 153 | 153 | 0 | 0 / 2711 (0.0%) | 152 / 2711 (5.6%) | 2019-01-23 | 2019-07-03 |
 | he-8 | 136 | 136 | 0 | 0 / 2711 (0.0%) | 136 / 2711 (5.0%) | 2019-01-30 | 2019-07-09 |
@@ -55,7 +55,7 @@ Generated 2026-11-17 00:34 UTC · 5877 videos
 | Zevachim זבחים | 119 | **119** | 82 | **119** | **119** | · | · |
 | Menachos מנחות | 109 | **109** | **109** | **109** | **109** | · | · |
 | Chullin חולין | 141 | **141** | **141** | **141** | **141** | · | · |
-| Bechoros בכורות | 60 | 59 | 58 | 58 | 58 | · | · |
+| Bechoros בכורות | 60 | 59 | 59 | 59 | 58 | · | · |
 | Arachin ערכין | 33 | · | · | · | · | · | · |
 | Temurah תמורה | 33 | · | · | · | · | · | · |
 | Kereisos כריתות | 27 | · | · | · | · | · | · |
@@ -68,8 +68,8 @@ Generated 2026-11-17 00:34 UTC · 5877 videos
 ## Missing dafim inside the stretch each track ran in cycle 14
 
 - **he-full** (1066 dafim in range): 7 missing — Bava Metzia 48, Bava Metzia 55, Bava Metzia 56, Bava Metzia 61, Bava Metzia 62, Bava Metzia 67, Bava Metzia 69
-- **he-only** (390 dafim in range): none missing
-- **en-full** (2508 dafim in range): none missing
+- **he-only** (391 dafim in range): none missing
+- **en-full** (2509 dafim in range): none missing
 - **en-only** (427 dafim in range): none missing
 
 ## Duplicates (more than one video for the same track + daf, same cycle)
@@ -77,9 +77,8 @@ Generated 2026-11-17 00:34 UTC · 5877 videos
 - en-full cycle 14: 2 dafim
 - en-full cycle 13: 10 dafim
 - en-8 cycle 13: 1 dafim
-- he-full cycle 14: 1 dafim
 
-<details><summary>All 14 duplicate groups</summary>
+<details><summary>All 13 duplicate groups</summary>
 
 - **en-full · 14 · Shabbos-129**
   - 2020-07-13 · 46 min · [Daf Yomi Shabbos Daf 129  by R’ Eli Stefansky](https://youtu.be/ZAjHMOw7rjU)
@@ -121,13 +120,10 @@ Generated 2026-11-17 00:34 UTC · 5877 videos
 - **en-full · 13 · Menachos-7**
   - 2018-08-17 · 24 min · [Daf Yomi menachos daf 7 part 1](https://youtu.be/5yDH8dguWBw) · _part_
   - 2018-08-17 · 19 min · [Daf Yomi menachos daf 7 part 2 by R' Eli Stefansky](https://youtu.be/IeL26AjTatU) · _part_
-- **he-full · 14 · Bechoros-60**
-  - 2026-11-16 · 82 min · [מרכז דף יומי -  בכורות דף ס. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/z2ozKOv67ho) · _unedited_
-  - 2026-11-16 · 0 min · [מרכז דף יומי -  בכורות דף ס. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/m4RoVdcDckU) · _unedited_
 
 </details>
 
-## Same daf in both cycles 13 and 14 (same track): 296 dafim
+## Same daf in both cycles 13 and 14 (same track): 297 dafim
 
 ## Flags on classified videos
 
@@ -138,7 +134,6 @@ Generated 2026-11-17 00:34 UTC · 5877 videos
 - amud B: 2
 - amud A: 2
 - date off by N days: 2
-- unedited: 2
 - manual override: 1
 - in Zevachim playlist; title + date say Menachos: 1
 - speaker:av Chait: 1
@@ -228,8 +223,6 @@ Generated 2026-11-17 00:34 UTC · 5877 videos
 - en-full · Menachos 8 · c13 · 2018-08-19 · [Daf Yomi menachos daf 8 part 1](https://youtu.be/V0oRxL2QeeI) · _part_
 - en-full · Menachos 7 · c13 · 2018-08-17 · [Daf Yomi menachos daf 7 part 2 by R' Eli Stefansky](https://youtu.be/IeL26AjTatU) · _part_
 - en-full · Menachos 7 · c13 · 2018-08-17 · [Daf Yomi menachos daf 7 part 1](https://youtu.be/5yDH8dguWBw) · _part_
-- he-full · Bechoros 60 · c14 · 2026-11-16 · [מרכז דף יומי -  בכורות דף ס. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/m4RoVdcDckU) · _unedited_
-- he-full · Bechoros 60 · c14 · 2026-11-16 · [מרכז דף יומי -  בכורות דף ס. - ר' אלי סטפנסקי שליט"א (לא ערוך)](https://youtu.be/z2ozKOv67ho) · _unedited_
 
 </details>
 
