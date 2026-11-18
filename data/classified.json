@@ -105227,7 +105227,26 @@
  "o8D-SlbnNds": {
   "id": "o8D-SlbnNds",
   "title": "מרכז דף יומי -  ערכין דף ב. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
-  "date": "2026-11-18T10:34:50Z",
+  "date": "2026-11-18T20:24:19Z",
+  "min": 82,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   2
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "6CaJsuK6oe4": {
+  "id": "6CaJsuK6oe4",
+  "title": "מרכז דף יומי -  ערכין דף ב. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-18T20:34:15Z",
   "min": 0,
   "playlists": [],
   "flags": [
@@ -105240,7 +105259,45 @@
    2
   ],
   "cycle": 14,
-  "dateDiff": -1,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "uoQ_VZ6uzkw": {
+  "id": "uoQ_VZ6uzkw",
+  "title": "חזרה - בכורות דף סא | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "date": "2026-11-18T14:13:47Z",
+  "min": 36,
+  "playlists": [
+   "חזרה מסכת בכורות | \"רק הדף\" עם ר' אלי סטפנסקי"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-only",
+  "mas": "Bechoros",
+  "dafs": [
+   61
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "ga3qLfXMrwE": {
+  "id": "ga3qLfXMrwE",
+  "title": "CHAZARAH - Bechoros Daf 61 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "date": "2026-11-18T19:24:57Z",
+  "min": 31,
+  "playlists": [
+   "CHAZARAH - Bechoros | \"Nothing but the Daf\" with R' Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-only",
+  "mas": "Bechoros",
+  "dafs": [
+   61
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
   "speaker": "Eli Stefansky"
  }
 }
