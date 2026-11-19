@@ -105288,11 +105288,9 @@
   "date": "2026-11-19T12:10:42Z",
   "min": 64,
   "playlists": [
-   "מרכז דף יומי - מסכת בכורות - ע\"י ר' אלי סטפנסקי שליט\"א"
+   "מרכז דף יומי - מסכת ערכין - ע\"י ר' אלי סטפנסקי שליט\"א"
   ],
-  "flags": [
-   "in Bechoros playlist; title + date say Arachin"
-  ],
+  "flags": [],
   "kind": "daf",
   "track": "he-full",
   "mas": "Arachin",
@@ -105301,6 +105299,63 @@
   ],
   "cycle": 14,
   "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "eI-V9wG3hsw": {
+  "id": "eI-V9wG3hsw",
+  "title": "חזרה - ערכין דף ב | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "date": "2026-11-19T22:18:55Z",
+  "min": 31,
+  "playlists": [
+   "חזרה מסכת ערכין | \"רק הדף\" עם ר' אלי סטפנסקי"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-only",
+  "mas": "Arachin",
+  "dafs": [
+   2
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "RzRMk8X9TXo": {
+  "id": "RzRMk8X9TXo",
+  "title": "מרכז דף יומי -  ערכין דף ג. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-19T20:53:09Z",
+  "min": 0,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   3
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "ZmCE1JkiWh4": {
+  "id": "ZmCE1JkiWh4",
+  "title": "מרכז דף יומי -  ערכין דף ג. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-19T20:30:02Z",
+  "min": 89,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   3
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
   "speaker": "Eli Stefansky"
  }
 }
