@@ -55283,7 +55283,7 @@
   "liveBroadcastContent": "none",
   "privacyStatus": "public",
   "embeddable": true,
-  "defaultAudioLanguage": null
+  "defaultAudioLanguage": "en"
  },
  "FJAfgb4kAqU": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
@@ -64393,17 +64393,6 @@
   "embeddable": true,
   "defaultAudioLanguage": "iw"
  },
- "aK6dGXjrTDw": {
-  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "Daf Yomi Bechoros Daf 57 by R’ Eli Stefansky (unedited)",
-  "description": "",
-  "publishedAt": "2026-11-13T13:15:11Z",
-  "duration": "PT1H14M54S",
-  "liveBroadcastContent": "none",
-  "privacyStatus": "unlisted",
-  "embeddable": true,
-  "defaultAudioLanguage": "zxx"
- },
  "7IFmU0t2DeY": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
   "title": "CHAZARAH - Bechoros Daf 56 | \"Nothing but the Daf\" with R' Eli Stefansky",
@@ -64414,17 +64403,6 @@
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "en"
- },
- "T70KGQVCsCw": {
-  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "Daf Yomi Bechoros Daf 58 by R’ Eli Stefansky (unedited)",
-  "description": "",
-  "publishedAt": "2026-11-14T20:30:48Z",
-  "duration": "PT1H14M11S",
-  "liveBroadcastContent": "none",
-  "privacyStatus": "unlisted",
-  "embeddable": true,
-  "defaultAudioLanguage": "zxx"
  },
  "0n7fE-jS0NE": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
@@ -64514,17 +64492,6 @@
   "embeddable": true,
   "defaultAudioLanguage": "iw"
  },
- "4pTRZq-rr_I": {
-  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "Daf Yomi Bechoros Daf 59 by R’ Eli Stefansky (unedited)",
-  "description": "",
-  "publishedAt": "2026-11-15T20:23:42Z",
-  "duration": "PT1H1M28S",
-  "liveBroadcastContent": "none",
-  "privacyStatus": "unlisted",
-  "embeddable": true,
-  "defaultAudioLanguage": "zxx"
- },
  "wE76tUiqGYM": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
   "title": "CHAZARAH - Bechoros Daf 58 | \"Nothing but the Daf\" with R' Eli Stefansky",
@@ -64579,17 +64546,6 @@
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "iw"
- },
- "m4RoVdcDckU": {
-  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "Daf Yomi Bechoros Daf 60 by R’ Eli Stefansky (unedited)",
-  "description": "",
-  "publishedAt": "2026-11-16T20:27:52Z",
-  "duration": "PT1H8M58S",
-  "liveBroadcastContent": "none",
-  "privacyStatus": "unlisted",
-  "embeddable": true,
-  "defaultAudioLanguage": "zxx"
  },
  "z2ozKOv67ho": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
@@ -64701,17 +64657,6 @@
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
  },
- "6CaJsuK6oe4": {
-  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "Daf Yomi Arachin Daf 2 by R’ Eli Stefansky (unedited)",
-  "description": "",
-  "publishedAt": "2026-11-18T20:34:15Z",
-  "duration": "PT1H11M14S",
-  "liveBroadcastContent": "none",
-  "privacyStatus": "unlisted",
-  "embeddable": true,
-  "defaultAudioLanguage": "zxx"
- },
  "uoQ_VZ6uzkw": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
   "title": "חזרה - בכורות דף סא | \"רק הדף\" עם ר' אלי סטפנסקי",
@@ -64769,12 +64714,12 @@
  },
  "RzRMk8X9TXo": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "מרכז דף יומי -  ערכין דף ג. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "title": "Daf Yomi Arachin Daf 03 by R’ Eli Stefansky (unedited)",
   "description": "",
   "publishedAt": "2026-11-19T20:53:09Z",
-  "duration": "P0D",
-  "liveBroadcastContent": "upcoming",
-  "privacyStatus": "public",
+  "duration": "PT1H5M40S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "unlisted",
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
  },
@@ -64785,8 +64730,63 @@
   "publishedAt": "2026-11-19T20:30:02Z",
   "duration": "PT1H29M11S",
   "liveBroadcastContent": "none",
+  "privacyStatus": "unlisted",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
+ },
+ "1lmYD_R81rs": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  ערכין דף ד. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-20T13:23:01Z",
+  "duration": "P0D",
+  "liveBroadcastContent": "upcoming",
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "zxx"
+ },
+ "zHV3gTs6Utw": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  ערכין דף ד. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-20T13:00:53Z",
+  "duration": "PT1H29M35S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
+ },
+ "9kWAdpm_EQ0": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "Daf Yomi Arachin Daf 3 by R' Eli Stefansky",
+  "description": "Thanks for learning with us!\r\n\r\n00:00 - Good Morning\r\n04:53 - MDYsponsor.com\r\n09:50 - Introduction\r\n15:30 - 2B\r\n17:50- 3A\r\n39:06 - 3B\r\n1:00:45 - Have A Wonderful Shabbos\r\n\r\nSupport the Shiur: MDYsponsor.com\r\n\r\nWhere to Watch & Listen Find us on your favorite platform:\r\nhttps://mdydaf.com/learn#platforms\r\n\r\n\r\nUS: 605-562-0066\r\nIsrael: 055-DAF-YOMI (055-323-9664)\r\nUK: 03-333-661-463\r\nBelgium: 0480-201-272\r\n\r\n#DafYomi #EliStefansky #Arachin #MDY",
+  "publishedAt": "2026-11-20T11:01:51Z",
+  "duration": "PT1H1M11S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "en"
+ },
+ "zYgS1uwcaRA": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי - ערכין דף ג. - ר' אלי סטפנסקי שליט\"א",
+  "description": "השיעור מתקיים\r\nבימים א' עד ה' בשעה 9 בערב\r\nשישי ומוצ\"ש משתנה לפי זמן כניסת ויציאת שבת\r\nבמרכז דף היומי,\r\nרחוב נחל נועם 9, בית שמש\r\n\r\nארה״ב: 605-562-0066\r\nישראל: 055-DAF-YOMI (055-323-9664)\r\nבריטנה: 03-333-661-463\r\nבלגיה: 0480-201-272\r\n\r\nשליחת מייל לר' אלי:\r\nRebeli@mdydaf.com\r\n\r\nלהקדשת שיעור:\r\nhttp://donate.mdydaf.com\r\n\r\nקישור לזום בזמן השיעור:\r\nhttps://Zoom.8MinDaf.com\r\n\r\nקישור לקבוצת וואטסאפ:\r\nhttps://Hebrew.MDYdaf.com\r\n\r\nקישור לקבוצת סטטוסים בעברית:\r\nhttps://HebrewStatus.MDYdaf.com\r\n\r\n00:00 - שירה\r\n00:19 - ערב טוב רבוייתי\r\n00:49 - פרנסים\r\n12:19 - דף ב’ עמוד ב\r\n12:45 - דף ג’ עמוד א\r\n43:28 - דף ג’ עמוד ב\r\n1:04:28 - רבוייתי שיהיה לכם ערב טוב ונעים\r\n\r\n#דף_היומי #זה_לא_הדף_זה_היומי #השיעור_של_ר_אלי#MDY #מרכז_דף_היומי",
+  "publishedAt": "2026-11-20T07:00:35Z",
+  "duration": "PT1H4M42S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "iw"
+ },
+ "ukSm6lHemiA": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "CHAZARAH - Arachin Daf 2 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "description": "00:00 - Good Morning\r\n01:51 - Introduction\r\n03:35 - 2A\r\n20:20 - 2B\r\n31:33 - Have A Wonderful Day\r\n31:59 - Talis demonstration\r\n--\r\nMDY presents: \"Nothing but the Daf\", R’ Eli Stefansky’s MDY (Mercaz Daf Yomi) Shiur in a concise format - all the clarity of the full daf Shiur, with Reb Eli's unique charts and visual aids, without any extras (emails, stories etc.)\r\n\r\nPerfect for Chazarah or anyone who wants a quick, focused Daf.",
+  "publishedAt": "2026-11-20T01:42:11Z",
+  "duration": "PT36M15S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "en"
  }
 }
