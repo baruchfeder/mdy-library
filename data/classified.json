@@ -105292,15 +105292,15 @@
  },
  "1lmYD_R81rs": {
   "id": "1lmYD_R81rs",
-  "title": "מרכז דף יומי -  ערכין דף ד. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "title": "Daf Yomi Arachin Daf 04 by R’ Eli Stefansky (unedited)",
   "date": "2026-11-20T13:23:01Z",
-  "min": 0,
+  "min": 75,
   "playlists": [],
   "flags": [
    "unedited"
   ],
   "kind": "daf",
-  "track": "he-full",
+  "track": "en-full",
   "mas": "Arachin",
   "dafs": [
    4
@@ -105315,18 +105315,9 @@
   "date": "2026-11-20T13:00:53Z",
   "min": 90,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "he-full",
-  "mas": "Arachin",
-  "dafs": [
-   4
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "9kWAdpm_EQ0": {
   "id": "9kWAdpm_EQ0",
@@ -105383,6 +105374,82 @@
   ],
   "cycle": 14,
   "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "bcbn2RX-6jw": {
+  "id": "bcbn2RX-6jw",
+  "title": "מרכז דף יומי -  ערכין דף ה. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-21T21:08:08Z",
+  "min": 0,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   5
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "5Vk7-fp-AAo": {
+  "id": "5Vk7-fp-AAo",
+  "title": "מרכז דף יומי -  ערכין דף ה. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-21T21:06:08Z",
+  "min": 92,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   5
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "boUKhMAB1To": {
+  "id": "boUKhMAB1To",
+  "title": "מרכז דף יומי - ערכין דף ד. - ר' אלי סטפנסקי שליט\"א",
+  "date": "2026-11-21T20:22:33Z",
+  "min": 67,
+  "playlists": [
+   "מרכז דף יומי - מסכת ערכין - ע\"י ר' אלי סטפנסקי שליט\"א"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   4
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "6Sl3RxXXt4s": {
+  "id": "6Sl3RxXXt4s",
+  "title": "חזרה - ערכין דף ג | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "date": "2026-11-21T19:44:22Z",
+  "min": 27,
+  "playlists": [
+   "חזרה מסכת ערכין | \"רק הדף\" עם ר' אלי סטפנסקי"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-only",
+  "mas": "Arachin",
+  "dafs": [
+   3
+  ],
+  "cycle": 14,
+  "dateDiff": 2,
   "speaker": "Eli Stefansky"
  }
 }
