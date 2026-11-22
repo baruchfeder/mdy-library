@@ -64701,17 +64701,6 @@
   "embeddable": true,
   "defaultAudioLanguage": "iw"
  },
- "ZmCE1JkiWh4": {
-  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
-  "title": "מרכז דף יומי -  ערכין דף ג. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
-  "description": "",
-  "publishedAt": "2026-11-19T20:30:02Z",
-  "duration": "PT1H29M11S",
-  "liveBroadcastContent": "none",
-  "privacyStatus": "unlisted",
-  "embeddable": true,
-  "defaultAudioLanguage": "zxx"
- },
  "9kWAdpm_EQ0": {
   "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
   "title": "Daf Yomi Arachin Daf 3 by R' Eli Stefansky",
@@ -64750,7 +64739,7 @@
   "title": "Daf Yomi Arachin Daf 05 by R’ Eli Stefansky (unedited)",
   "description": "",
   "publishedAt": "2026-11-21T21:08:08Z",
-  "duration": "PT1H12M29S",
+  "duration": "PT1H12M23S",
   "liveBroadcastContent": "none",
   "privacyStatus": "unlisted",
   "embeddable": true,
@@ -64850,6 +64839,39 @@
   "description": "השיעור מתקיים\r\nבימים א' עד ה' בשעה 9 בערב\r\nשישי ומוצ\"ש משתנה לפי זמן כניסת ויציאת שבת\r\nבמרכז דף היומי,\r\nרחוב נחל נועם 9, בית שמש\r\n\r\nארה״ב: 605-562-0066\r\nישראל: 055-DAF-YOMI (055-323-9664)\r\nבריטנה: 03-333-661-463\r\nבלגיה: 0480-201-272\r\n\r\nשליחת מייל לר' אלי:\r\nRebeli@mdydaf.com\r\n\r\nלהקדשת שיעור:\r\nhttp://donate.mdydaf.com\r\n\r\nקישור לזום בזמן השיעור:\r\nhttps://Zoom.8MinDaf.com\r\n\r\nקישור לקבוצת וואטסאפ:\r\nhttps://Hebrew.MDYdaf.com\r\n\r\nקישור לקבוצת סטטוסים בעברית:\r\nhttps://HebrewStatus.MDYdaf.com\r\n\r\n00:00 - ערב טוב רבוייתי\r\n00:15 - דף ג’ עמוד ב\r\n12:47 - דף ד’ עמוד א\r\n17:50 - דף ד’ עמוד ב\r\n30:41 - רבוייתי שיהיה לכם שבת שלום",
   "publishedAt": "2026-11-21T22:23:10Z",
   "duration": "PT30M53S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "iw"
+ },
+ "ZZT0ZMTcMFw": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  ערכין דף ו. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-22T20:24:46Z",
+  "duration": "P0D",
+  "liveBroadcastContent": "upcoming",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
+ },
+ "yfCSM_K3sJo": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  ערכין דף ו. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-22T20:23:51Z",
+  "duration": "PT1H22M56S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
+ },
+ "lyKTsner9JU": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "חזרה - ערכין דף ה | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "description": "השיעור מתקיים\r\nבימים א' עד ה' בשעה 9 בערב\r\nשישי ומוצ\"ש משתנה לפי זמן כניסת ויציאת שבת\r\nבמרכז דף היומי,\r\nרחוב נחל נועם 9, בית שמש\r\n\r\nארה״ב: 605-562-0066\r\nישראל: 055-DAF-YOMI (055-323-9664)\r\nבריטנה: 03-333-661-463\r\nבלגיה: 0480-201-272\r\n\r\nשליחת מייל לר' אלי:\r\nRebeli@mdydaf.com\r\n\r\nלהקדשת שיעור:\r\nhttp://donate.mdydaf.com\r\n\r\nקישור לזום בזמן השיעור:\r\nhttps://Zoom.8MinDaf.com\r\n\r\nקישור לקבוצת וואטסאפ:\r\nhttps://Hebrew.MDYdaf.com\r\n\r\nקישור לקבוצת סטטוסים בעברית:\r\nhttps://HebrewStatus.MDYdaf.com\r\n\r\n00:00 - ערב טוב רבוייתי\r\n00:15 - דף ד’ עמוד ב\r\n06:11 - דף ה’ עמוד א\r\n21:13 - דף ה’ עמוד ב\r\n33:04 - רבוייתי שיהיה לכם ערב טוב ונעים",
+  "publishedAt": "2026-11-22T16:46:59Z",
+  "duration": "PT33M17S",
   "liveBroadcastContent": "none",
   "privacyStatus": "public",
   "embeddable": true,
