@@ -105317,26 +105317,6 @@
   "dateDiff": 1,
   "speaker": "Eli Stefansky"
  },
- "bcbn2RX-6jw": {
-  "id": "bcbn2RX-6jw",
-  "title": "Daf Yomi Arachin Daf 05 by R’ Eli Stefansky (unedited)",
-  "date": "2026-11-21T21:08:08Z",
-  "min": 72,
-  "playlists": [],
-  "flags": [],
-  "kind": "hidden",
-  "reason": "not public on YouTube: unlisted"
- },
- "5Vk7-fp-AAo": {
-  "id": "5Vk7-fp-AAo",
-  "title": "מרכז דף יומי -  ערכין דף ה. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
-  "date": "2026-11-21T21:06:08Z",
-  "min": 92,
-  "playlists": [],
-  "flags": [],
-  "kind": "hidden",
-  "reason": "not public on YouTube: unlisted"
- },
  "boUKhMAB1To": {
   "id": "boUKhMAB1To",
   "title": "מרכז דף יומי - ערכין דף ד. - ר' אלי סטפנסקי שליט\"א",
@@ -105491,22 +105471,13 @@
  },
  "ZZT0ZMTcMFw": {
   "id": "ZZT0ZMTcMFw",
-  "title": "מרכז דף יומי -  ערכין דף ו. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "title": "Daf Yomi Arachin Daf 06 by R’ Eli Stefansky (unedited)",
   "date": "2026-11-22T20:24:46Z",
-  "min": 0,
+  "min": 69,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "he-full",
-  "mas": "Arachin",
-  "dafs": [
-   6
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "yfCSM_K3sJo": {
   "id": "yfCSM_K3sJo",
@@ -105514,18 +105485,9 @@
   "date": "2026-11-22T20:23:51Z",
   "min": 83,
   "playlists": [],
-  "flags": [
-   "unedited"
-  ],
-  "kind": "daf",
-  "track": "he-full",
-  "mas": "Arachin",
-  "dafs": [
-   6
-  ],
-  "cycle": 14,
-  "dateDiff": 0,
-  "speaker": "Eli Stefansky"
+  "flags": [],
+  "kind": "hidden",
+  "reason": "not public on YouTube: unlisted"
  },
  "lyKTsner9JU": {
   "id": "lyKTsner9JU",
@@ -105544,6 +105506,63 @@
   ],
   "cycle": 14,
   "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "D1iuS7PdTtI": {
+  "id": "D1iuS7PdTtI",
+  "title": "Daf Yomi Arachin Daf 6 by R' Eli Stefansky",
+  "date": "2026-11-23T12:17:39Z",
+  "min": 64,
+  "playlists": [
+   "Daf Yomi Arachin by R’ Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-full",
+  "mas": "Arachin",
+  "dafs": [
+   6
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "w99xa9FwQ5w": {
+  "id": "w99xa9FwQ5w",
+  "title": "CHAZARAH - Arachin Daf 5 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "date": "2026-11-23T06:13:06Z",
+  "min": 38,
+  "playlists": [
+   "CHAZARAH - Arachin | \"Nothing but the Daf\" with R' Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-only",
+  "mas": "Arachin",
+  "dafs": [
+   5
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "HptVoq4aXtA": {
+  "id": "HptVoq4aXtA",
+  "title": "מרכז דף יומי - ערכין דף ו. - ר' אלי סטפנסקי שליט\"א",
+  "date": "2026-11-23T00:11:07Z",
+  "min": 61,
+  "playlists": [
+   "מרכז דף יומי - מסכת ערכין - ע\"י ר' אלי סטפנסקי שליט\"א"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   6
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
   "speaker": "Eli Stefansky"
  }
 }
