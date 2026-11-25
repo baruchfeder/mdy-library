@@ -105643,18 +105643,18 @@
  },
  "Nrebo8aoxEk": {
   "id": "Nrebo8aoxEk",
-  "title": "Daf Yomi Arachin Daf 7 by R’ Eli Stefansky (unedited)",
-  "date": "2026-11-24T06:22:09Z",
-  "min": 0,
+  "title": "מרכז דף יומי -  ערכין דף ח. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-24T20:34:02Z",
+  "min": 93,
   "playlists": [],
   "flags": [
    "unedited"
   ],
   "kind": "daf",
-  "track": "en-full",
+  "track": "he-full",
   "mas": "Arachin",
   "dafs": [
-   7
+   8
   ],
   "cycle": 14,
   "dateDiff": 0,
@@ -105677,6 +105677,25 @@
   ],
   "cycle": 14,
   "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "8F38RMmOOlA": {
+  "id": "8F38RMmOOlA",
+  "title": "חזרה - ערכין דף ז | \"רק הדף\" עם ר' אלי סטפנסקי",
+  "date": "2026-11-24T21:50:58Z",
+  "min": 32,
+  "playlists": [
+   "חזרה מסכת ערכין | \"רק הדף\" עם ר' אלי סטפנסקי"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "he-only",
+  "mas": "Arachin",
+  "dafs": [
+   7
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
   "speaker": "Eli Stefansky"
  }
 }
