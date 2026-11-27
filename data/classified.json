@@ -105811,5 +105811,62 @@
   "cycle": 14,
   "dateDiff": 0,
   "speaker": "Eli Stefansky"
+ },
+ "oVmzuMAdPzw": {
+  "id": "oVmzuMAdPzw",
+  "title": "CHAZARAH - Arachin Daf 9 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "date": "2026-11-26T21:50:56Z",
+  "min": 38,
+  "playlists": [
+   "CHAZARAH - Arachin | \"Nothing but the Daf\" with R' Eli Stefansky"
+  ],
+  "flags": [],
+  "kind": "daf",
+  "track": "en-only",
+  "mas": "Arachin",
+  "dafs": [
+   9
+  ],
+  "cycle": 14,
+  "dateDiff": 1,
+  "speaker": "Eli Stefansky"
+ },
+ "FxwIgGG1kfI": {
+  "id": "FxwIgGG1kfI",
+  "title": "מרכז דף יומי -  ערכין דף י. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-26T20:31:27Z",
+  "min": 91,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   10
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
+ },
+ "W91Xnm-P-zM": {
+  "id": "W91Xnm-P-zM",
+  "title": "מרכז דף יומי -  ערכין דף י. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "date": "2026-11-26T20:30:54Z",
+  "min": 0,
+  "playlists": [],
+  "flags": [
+   "unedited"
+  ],
+  "kind": "daf",
+  "track": "he-full",
+  "mas": "Arachin",
+  "dafs": [
+   10
+  ],
+  "cycle": 14,
+  "dateDiff": 0,
+  "speaker": "Eli Stefansky"
  }
 }

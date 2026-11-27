@@ -64981,7 +64981,7 @@
   "title": "Daf Yomi Arachin Daf 09 by R’ Eli Stefansky (unedited)",
   "description": "",
   "publishedAt": "2026-11-25T20:28:40Z",
-  "duration": "PT1H15M39S",
+  "duration": "PT1H15M36S",
   "liveBroadcastContent": "none",
   "privacyStatus": "unlisted",
   "embeddable": true,
@@ -65030,5 +65030,38 @@
   "privacyStatus": "public",
   "embeddable": true,
   "defaultAudioLanguage": "iw"
+ },
+ "oVmzuMAdPzw": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "CHAZARAH - Arachin Daf 9 | \"Nothing but the Daf\" with R' Eli Stefansky",
+  "description": "00:00 - Good Morning\r\n00:14 - Introduction\r\n02:03 - 8B\r\n23:22 - 9A\r\n29:07 - 9B\r\n37:52 - Have A Wonderful Day\r\n--\r\nMDY presents: \"Nothing but the Daf\", R’ Eli Stefansky’s MDY (Mercaz Daf Yomi) Shiur in a concise format - all the clarity of the full daf Shiur, with Reb Eli's unique charts and visual aids, without any extras (emails, stories etc.)\r\n\r\nPerfect for Chazarah or anyone who wants a quick, focused Daf.",
+  "publishedAt": "2026-11-26T21:50:56Z",
+  "duration": "PT38M14S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "en"
+ },
+ "FxwIgGG1kfI": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  ערכין דף י. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-26T20:31:27Z",
+  "duration": "PT1H30M56S",
+  "liveBroadcastContent": "none",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
+ },
+ "W91Xnm-P-zM": {
+  "channelId": "UCKwQa5DB_VR98ac_r-Wyl-g",
+  "title": "מרכז דף יומי -  ערכין דף י. - ר' אלי סטפנסקי שליט\"א (לא ערוך)",
+  "description": "",
+  "publishedAt": "2026-11-26T20:30:54Z",
+  "duration": "P0D",
+  "liveBroadcastContent": "upcoming",
+  "privacyStatus": "public",
+  "embeddable": true,
+  "defaultAudioLanguage": "zxx"
  }
 }
